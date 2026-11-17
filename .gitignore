@@ -1,0 +1,7 @@
+target/
+data/
+.idea/
+*.iml
+.DS_Store
+build-error*.txt
+src/main/frontend/generated/
